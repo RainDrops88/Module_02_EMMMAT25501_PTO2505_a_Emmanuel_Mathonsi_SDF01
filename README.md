@@ -18,9 +18,6 @@
 
 ## 🛠️ Tech Stack
 
-**Good with:**
-
-- ![C++](https://tse2.mm.bing.net/th/id/OIP.7AozP0wxaQMnJoO3jzsj3QHaH5?r=0&rs=1&pid=ImgDetMain)
 **Currently learning:**
 
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -83,4 +80,4 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RainDrops88&theme=monokai&show_icons=true&hide_border=false&count_private=false)
