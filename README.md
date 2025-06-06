@@ -69,7 +69,8 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email:   [07942jerry@gmail.com]
+📧 Email: [07942jerry@gmail.com]
+
 ---
 
 ## 🚀 Fun Fact
